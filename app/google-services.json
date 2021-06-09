@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048624367575",
+    "project_id": "smilingface-app-7fbae",
+    "storage_bucket": "smilingface-app-7fbae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048624367575:android:f48ed7177e13426d5b6d92",
+        "android_client_info": {
+          "package_name": "com.example.nguyennhathao_18040821_smilingface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048624367575-l87hbabhli5r64i9nipipce82o0s4s47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBamcHRM6wl8b-bRDaZ5ovrTqI8zQO2QEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048624367575-l87hbabhli5r64i9nipipce82o0s4s47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
